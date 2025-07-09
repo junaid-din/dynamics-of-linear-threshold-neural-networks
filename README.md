@@ -7,3 +7,5 @@ Tasks completed:
 * Created multiple CTLN networks with varying sizes
 * Simulated network dynamics from various initial conditions and parameter values
 * Visualized results using time-series plots of neuronal activity.
+
+![Neuron_Activity](images/neuron_activity.png)
